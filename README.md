@@ -12,6 +12,5 @@ Coding Languages used:
 ![Portfolio About](images/html1.png)
 ![Portfolio About](images/css2.jpg)
 ![Portfolio About](images/bootstrap4.png)
-![Portfolio About](images/jquery5.png)
 ![Portfolio About](images/javascript3.png)
 ![Portfolio About](images/react.png)
